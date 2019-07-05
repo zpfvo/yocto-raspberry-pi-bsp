@@ -5,8 +5,10 @@
 
   <remote fetch="https://git.yoctoproject.org/git" name="yocto"/>
   <remote fetch="https://github.com/rauc" name="rauc"/>
+  <remote fetch="https://github.com/zpfvo" name="zpfvo"/>
   <project remote="yocto" name="poky" path="sources"/>
   <project remote="yocto" name="meta-gplv2" path="sources/meta-gplv2"/>
   <project remote="yocto" name="meta-raspberrypi" path="sources/meta-raspberrypi"/>
   <project remote="rauc" name="meta-rauc" path="sources/meta-rauc"/>
+  <project remote="zpfvo" name="meta-custom" path="sources/meta-custom"/>
 </manifest>
