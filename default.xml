@@ -6,6 +6,7 @@
   <remote fetch="https://git.yoctoproject.org/git" name="yocto"/>
   <remote fetch="https://github.com/rauc" name="rauc"/>
   <project remote="yocto" name="poky" path="sources"/>
+  <project remote="yocto" name="meta-gplv2" path="sources/meta-gplv2"/>
   <project remote="yocto" name="meta-raspberrypi" path="sources/meta-raspberrypi"/>
   <project remote="rauc" name="meta-rauc" path="sources/meta-rauc"/>
 </manifest>
