@@ -11,4 +11,5 @@
   <project remote="yocto" name="meta-raspberrypi" path="sources/meta-raspberrypi"/>
   <project remote="rauc" name="meta-rauc" path="sources/meta-rauc"/>
   <project remote="zpfvo" name="meta-custom" path="sources/meta-custom"/>
+  <project remote="zpfvo" name="meta-custom-bsp" path="sources/meta-custom-bsp"/>
 </manifest>
